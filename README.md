@@ -1,6 +1,6 @@
 # OS-Practical-file
 Hey I am Ujjawal kumar student at Ramanujan College 2nd year 
-This is workspace for OS Practical File for Du 
+This is workspace for Operating System Practical File for Du 
 Practical list for OS 
 1. Write a program (using fork() and/or exec() commands) where parent and child execute: a) 
 
